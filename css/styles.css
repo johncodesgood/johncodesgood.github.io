@@ -53,7 +53,7 @@
   position: absolute;
   z-index:2;
   color: white;
-  font-size: 1.6em;
+  font-size: 2em;
   text-align: center;
   margin-top: 22%;
 /*  margin-left: 60%;
@@ -71,7 +71,8 @@
 .home-words-color {
   /*color: #2E9AFE;*/
   /*color: #23527C;*/
-  color: #0080FF;
+ /* color: #0080FF;*/
+ color: #2EFEF7;
 }
 
 .home-words-color:hover {
