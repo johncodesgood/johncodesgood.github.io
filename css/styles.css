@@ -42,8 +42,13 @@
   opacity: 0.6;
 }
 
+.white {
+  color: white;
+}
+
 .homepage {
   width: 100%;
+  height: 100%;
   padding: 0px;
   margin: 0px;
   background-color: rgba(0,0,0,0.5);
@@ -92,7 +97,8 @@
 }
 
 #web-development {
-  background-color:#F2F2F2;
+  /*background-color:#F2F2F2;*/
+  background-color: #A4A4A4;
 }
 
 #product-management {
@@ -100,7 +106,7 @@
 }
 
 #marketing-innovation {
- background-color: #A4A4A4;
+  background-color: #A4A4A4;
 }
 
 .footer {
