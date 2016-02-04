@@ -57,7 +57,7 @@
   height: 100%;
   padding: 0px;
   margin: 0px;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,0.3);
 }
 
 #home-words {
@@ -81,14 +81,20 @@
 
 .home-words-color {
   /*color: #2E9AFE;*/
-  /*color: #23527C;*/
- /* color: #0080FF;*/
+  /*color: #23527C;
+*/  /*color: #0080FF;*/
+ /*color: #2EFEF7;*/
+ /*color: #BDDFFF;*/
+ /*color: #B6FF8C;*/
  color: #2EFEF7;
+ text-decoration: none;
 }
 
 .home-words-color:hover {
   text-decoration: none;
-  color: #1C4161;
+  /*color: #1C4161;*/
+  /*color: #24C8C3;*/
+  color: #A1FFFB;
 }
 
 .no-margin {
