@@ -14,13 +14,16 @@
 }
 
 .nav.navbar-nav li a {
-    color: white;
-    font-size: 16px;
+    color: #EAEAEA;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 300;
 }
 
 .nav.navbar-nav > li > a:hover,
 .nav.navbar-nav > li > a:focus {
-  color: #2EFEF7;
+  /*color: #2EFEF7;*/
+  color: #ABD1F4;
   background-color: transparent;
 }
 
@@ -84,9 +87,9 @@
   /*color: #23527C;
 */  /*color: #0080FF;*/
  /*color: #2EFEF7;*/
- /*color: #BDDFFF;*/
+ color: #BDDFFF;
  /*color: #B6FF8C;*/
- color: #2EFEF7;
+ /*color: #2EFEF7;*/
  text-decoration: none;
 }
 
@@ -94,7 +97,8 @@
   text-decoration: none;
   /*color: #1C4161;*/
   /*color: #24C8C3;*/
-  color: #A1FFFB;
+  /*color: #A1FFFB;*/
+  color: #ABD1F4;
 }
 
 .no-margin {
